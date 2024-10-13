@@ -14,7 +14,7 @@
 Для начала клонируйте репозиторий с GitHub на ваше устройство:
 
 ```bash
-git clone https://github.com/username/hand-generator.git
+git clone https://github.com/NAKAZUKA/hand-generator.git
 cd hand-generator
 ```
 
